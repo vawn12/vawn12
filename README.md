@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm **vawn12**, a Full-Stack Software Engineer focused on **Java / Spring Boot** and **React / Next.js**.
+I'm **vawn**, a Full-Stack Software Engineer focused on **Java / Spring Boot** and **React / Next.js**.
 
 My work spans backend services and microservices with **Spring Boot, Node.js, and Python**, web interfaces with **React and Next.js**, and cross-platform mobile development with **Flutter**. I also work with relational and document databases and use **Docker** for development environments.
 
